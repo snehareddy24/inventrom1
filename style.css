@@ -1,0 +1,141 @@
+.header
+{
+  height:100px;
+  width:100%;
+
+
+}
+.logo
+{
+  float:left;
+  padding-left: 200px;
+}
+.nav
+{
+  float:right;
+  display:inline-block;
+  color: #0a0a0a;
+  font-style: italic;
+  padding-top:10px;
+  padding-right: 200px;
+
+}
+a
+{
+  padding-right: 35px;
+  text-decoration: none;
+
+}
+.backgroundimage
+{
+  width: 100%;
+  height:600px;
+  background-image: url("background-layer.png");
+  text-align: center;
+    color:white;
+
+
+}
+.text{
+position: relative;
+top:200px;
+  color:white;
+  font-family:inherit;
+  font-size: 20px;
+}
+.click
+{
+  position: relative;
+  top:260px;
+  font-style: oblique;
+  color:white;
+}
+.title
+{
+  color:green;
+  text-align: center;
+}
+.card-list
+{
+  width:100%;
+    height: 800px;
+
+}
+.card
+{
+  width:40%;
+  text-align: center;
+float: left;
+  padding:5%;
+
+
+}
+#aboutusmatter
+{
+  text-align: center;
+}
+.awards-list
+{
+  width:100%;
+  margin: auto;
+  height: 500px;
+
+}
+.award{
+  width:22%;
+  text-align: center;
+  float:left;
+  padding-left: 2%;
+}
+
+.awards-img
+{
+  width:270px;
+  height:250px;
+}
+.awardtext
+{
+  text-decoration: underline;
+
+}
+.getintouch
+{
+  width:100%;
+  height:850px;
+
+}
+.git{
+   width:40%;
+   float:left;
+   padding:5%;
+
+ }
+ footer
+ {
+   width:100%;
+   height:100px;
+   background-color: #139139;
+   color:white;
+ }
+ .copyright
+ {
+   float: left;
+   padding-left:250px;
+   padding-top: 20px;
+   color:white;
+ }
+ .social-icons
+ {
+   float:right;
+   display:inline-block;
+   color:white;
+   padding-top: 10px;
+  padding-right: 400px;
+ }
+ .angleup
+ {
+   float:right;
+position: relative;
+left: 500px;
+
+ }
